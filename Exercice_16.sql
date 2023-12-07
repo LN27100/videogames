@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT g_name) AS 'nombre de jeux uniques' FROM games

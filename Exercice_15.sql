@@ -1,0 +1,1 @@
+SELECT count(g_name) AS 'nombre total de jeux' FROM games  
